@@ -9,20 +9,21 @@ https://github.com/ElPoder1
 
 ## **1. Toma de requerimentos.**
 Considerando que la aplicación debe de ser responsiva para celular y que la preferencia de colores es azul marino y blanco, se tienen 2 líneas principales de requerimientos a tomar en cuenta:
+
 ***UX de Cliente***
-•	Creación de cuenta del cliente
-•	Formulario de captura de datos de la demanda
-•	Método de pago o transacción
-•	Numero de seguimiento del caso
-•	Notificación de actualización del caso
-•	Observación de comentarios del abogado
+-	Creación de cuenta del cliente.
+-	Formulario de captura de datos de la demanda.
+-	Método de pago o transacción.
+-	Numero de seguimiento del caso.
+-	Notificación de actualización del caso.
+-	Observación de comentarios del abogado.
 
 ***UX de Administrador (Abogado).***
-•	Creación de cuenta de administrador
-•	Notificación de nueva demanda
-•	Dashboard con datos y cumplimiento de pago
-•	Añadir comentarios y actuaciones del caso al cliente
-•	Notificaciones al cliente
+-	Creación de cuenta de administrador.
+-	Notificación de nueva demanda.
+-	Dashboard con datos y cumplimiento de pago.
+-	Añadir comentarios y actuaciones del caso al cliente.
+-	Notificaciones al cliente.
 
 ## **2. Análisis del flujo de la aplicación.** 
 A continuación, se muestra un análisis del flujo de la aplicación según los requerimientos mencionados con anterioridad. Se hizo uso de la herramienta EdrawMax (https://www.edrawsoft.com/edraw-max/).
