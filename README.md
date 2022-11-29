@@ -3,12 +3,12 @@ Práctica de Wireframe para el curso FrontEnd de LaunchX Microsoft
 
 # Abogabot
 
-## **Descripción.**
-	Se requiere una página web que sea responsive para poder interactuar desde el smartphone en la cual un despacho de abogados podrá automatizar las demandas de sus clientes mediante un formulario. Al ser llenado el formulario por el cliente se manda al proceso de pago y el cliente es capaz de dar seguimiento a su demanda al crear una cuenta en la página. Por otro lado, el administrador recibe las notificaciones de nuevas demandas y con los datos llenados del formulario del cliente se crea de forma automática el documento legal en formato Word para empezar el proceso. El administrador, además de poder ver el pago efectuado por el cliente en un dashboard, actualiza el proceso de la demanda y agrega comentarios. La preferencia de colores es azul marino y blanco.
+**Descripción.**
+Se requiere una página web que sea responsive para poder interactuar desde el smartphone en la cual un despacho de abogados podrá automatizar las demandas de sus clientes mediante un formulario. Al ser llenado el formulario por el cliente se manda al proceso de pago y el cliente es capaz de dar seguimiento a su demanda al crear una cuenta en la página. Por otro lado, el administrador recibe las notificaciones de nuevas demandas y con los datos llenados del formulario del cliente se crea de forma automática el documento legal en formato Word para empezar el proceso. El administrador, además de poder ver el pago efectuado por el cliente en un dashboard, actualiza el proceso de la demanda y agrega comentarios. La preferencia de colores es azul marino y blanco.
 https://github.com/ElPoder1
 
 ## **1. Toma de requerimentos.**
-	Considerando que la aplicación debe de ser responsiva para celular y que la preferencia de colores es azul marino y blanco, se tienen 2 líneas principales de requerimientos a tomar en cuenta:
+Considerando que la aplicación debe de ser responsiva para celular y que la preferencia de colores es azul marino y blanco, se tienen 2 líneas principales de requerimientos a tomar en cuenta:
 ***UX de Cliente***
 •	Creación de cuenta del cliente
 •	Formulario de captura de datos de la demanda
